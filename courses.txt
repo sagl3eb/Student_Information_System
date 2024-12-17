@@ -1,0 +1,5 @@
+ICS101 Computer Science LR002 ST7890,ST0123,STNEW
+DSA202 Data Structures LR004 STNEW,ST0123
+DMS303 Database Management LR002 STNEW,ST7890
+SE404 Software Engineering LR005 
+CF505 Cybersecurity Fundamentals LR003 ST0123

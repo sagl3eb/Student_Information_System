@@ -1,0 +1,12 @@
+ST0123 0 Student Raiyan Afridi
+ST7890 0 Student Alice Smith
+S1 1 System-Admin Emily Brown
+LR001 1231233453 Lecturer aaa aaa
+PA001 1 Programme-Admin Aaa fdghdf
+LR002 1 Lecturer aaa aaa
+LR003 1 Lecturer aaa aaa
+LR004 1 Lecturer aaa aaa
+LR005 1 Lecturer aaa aaa
+STNEW 0 Student NEW1 NEW2
+ST111 1 Student SS AA
+Abdelrahim 123456789 Student Abdelrahim Ali

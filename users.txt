@@ -1,0 +1,12 @@
+ST0123 12345678 Student Raiyan Afridi
+ST7890 12345678 Student Alice Smith
+S1 12345678 System-Admin Emily Brown
+LR001 12345678 Lecturer Abdelrahim Salah
+PA001 12345678 Programme-Admin Khalid Yousef
+LR002 12345678 Lecturer Naif Ahmed
+LR003 12345678 Lecturer Mohammed Khanaqin
+LR004 12345678 Lecturer Basha Alali
+LR005 12345678 Lecturer Mahmoud Salman
+STNEW 12345678 Student Khalid Nasir
+ST111 12345678 Student Tony Francisco
+ST022 SAGNEWPASS Student SAG SALEH
